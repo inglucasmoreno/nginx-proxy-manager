@@ -1,8 +1,0 @@
-2024/10/13 00:47:49 [error] 178#178: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.29.0.1, server: nginxproxymanager, request: "GET /api/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost:81", referrer: "http://localhost:81/"
-2024/10/13 22:25:06 [warn] 170#170: 512 worker_connections are not enough, reusing connections
-2024/10/13 22:25:06 [alert] 170#170: 512 worker_connections are not enough
-2024/10/13 22:25:06 [error] 169#169: *1047 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 127.0.0.1, server: localhost-nginx-proxy-manager, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
-2024/10/13 22:29:10 [warn] 170#170: 512 worker_connections are not enough, reusing connections
-2024/10/13 22:29:10 [alert] 169#169: 512 worker_connections are not enough
-2024/10/13 22:29:10 [error] 170#170: *2086 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 127.0.0.1, server: localhost-nginx-proxy-manager, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:80/favicon.ico", host: "192.168.0.17", referrer: "http://192.168.0.17/"
-2024/10/13 22:29:49 [warn] 147#147: server name "http://192.168.0.17/" has suspicious symbols in /data/nginx/proxy_host/1.conf:20
