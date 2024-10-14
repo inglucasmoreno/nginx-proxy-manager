@@ -48,7 +48,7 @@ Password: changeme
 ## 📸 Capturas de Pantalla <a id="capturas-pantalla"></a>
 - Login
 
-![Pantalla Principal](./assets/interfaz-login.png)
+![Pantalla Login](./assets/interfaz-login.png)
 
 - Pantalla principal
 
