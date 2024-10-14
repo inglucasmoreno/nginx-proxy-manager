@@ -48,11 +48,11 @@ Password: changeme
 ## 📸 Capturas de Pantalla <a id="capturas-pantalla"></a>
 - Login
 
-![Pantalla Login](./assets/interfaz-login.png)
+![login](./assets/login.png)
 
 - Pantalla principal
 
-![Pantalla Principal](./assets/interfaz-dashboard.png)
+![dashboard](./assets/dashboard.png)
 
 ## 🤝 Contribuciones <a id="contribuciones"></a> 
 ¡Toda contribución es bienvenida! Por favor sigue los pasos:  
